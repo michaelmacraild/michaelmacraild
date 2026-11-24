@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @michaelmacraild (Michael MacRaild). I am a PhD student at the University of Leeds and I am part of the Centre for Doctoral Training in Fluid Dynamics (https://fluid-dynamics.leeds.ac.uk/) and CISTIB (http://www.cistib.org/).
-- 👀 I’m interested in modelling & simulation, mathematics, physics, deep learning, in-silico trials, ...
-- 📫 Contact me via email at scmm@leeds.ac.uk
+- 👋 Hi, I’m @michaelmacraild (Michael MacRaild). I am a post-doc at The University of Manchester and member of the Centre for Computational Imaging & Modelling in Medicine (https://github.com/ccmim)
+- University of Leeds Centre for Doctoral Training in Fluid Dynamics (https://fluid-dynamics.leeds.ac.uk/) alum.
+- 👀 I’m interested in using modelling & simulation for in-silico trials of cardiovascular medical devices
+- 📫 Contact me via email at michael.macraild@manchester.ac.uk
 
 <!---
 mmacraild/mmacraild is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
